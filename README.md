@@ -51,8 +51,6 @@ I like turning **ideas → code → intelligent systems.**
 
 `LLMs`  •  `Generative AI`  •  `NLP`  •  `Computer Vision`  •  `DSA`
 
-<br>
-
 </div>
 
 <br>
