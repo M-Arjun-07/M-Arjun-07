@@ -8,15 +8,12 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/m-arjun-404er/">
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mr.m.arjun07@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
@@ -55,8 +52,6 @@ I like turning **ideas → code → intelligent systems.**
 `LLMs`  •  `Generative AI`  •  `NLP`  •  `Computer Vision`  •  `DSA`
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
