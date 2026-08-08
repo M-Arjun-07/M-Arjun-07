@@ -1,170 +1,66 @@
-# `> whoami`
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=180&section=header&text=ARJUN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20SOFTWARE%20%7C%20BUILDING%20THINGS&descAlignY=58&descSize=16"/>
+# ARJUN
 
-### `Artificial Intelligence & Machine Learning Student`
+### `AI/ML Student • Developer • Problem Solver`
 
-**I build AI systems, experiment with emerging technologies, and turn ideas into working software.**
+**Building intelligent systems that turn ideas into useful software.**
 
-<br/>
+<br>
 
-</div>
-
----
-
-## `01 // ABOUT`
-
-```python
-class Arjun:
-
-    role = "AI/ML Student & Developer"
-    
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "NLP",
-        "Computer Vision",
-        "Software Development"
-    ]
-
-    currently = [
-        "Building AI-powered projects",
-        "Sharpening DSA & problem solving",
-        "Exploring LLM applications",
-        "Learning by building"
-    ]
-
-    philosophy = "Build > Break > Learn > Improve"
-```
-
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** interested in building practical systems that combine AI with software engineering.
-
-I enjoy going from **idea → architecture → implementation → debugging → working product**.
-
----
-
-## `02 // TECH STACK`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql&theme=dark"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-<br/>
-
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI` `LLMs`
-
-### Development & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,fastapi,git,github,linux,docker&theme=dark"/>
-
-</div>
-
----
-
-## `03 // WHAT I'M LEARNING`
-
-<div align="center">
-
-```text
-             ┌─────────────────────┐
-             │   ARTIFICIAL        │
-             │   INTELLIGENCE      │
-             └──────────┬──────────┘
-                        │
-       ┌────────────────┼────────────────┐
-       ▼                ▼                ▼
-   MACHINE           GENERATIVE       COMPUTER
-   LEARNING             AI             VISION
-       │                │                │
-       └────────────────┼────────────────┘
-                        ▼
-                     NLP / LLMs
-                        │
-                        ▼
-                 REAL-WORLD APPS
-```
-
-</div>
-
-Currently focusing on:
-
-* 🧠 **Machine Learning & Deep Learning**
-* 🤖 **Generative AI & LLM applications**
-* 🗣️ **NLP & speech technologies**
-* 👁️ **Computer Vision**
-* ⚡ **AI-powered automation**
-* 🧩 **Data Structures & Algorithms**
-* 🗄️ **SQL & backend development**
-
----
-
-## `04 // PROBLEM SOLVING`
-
-I regularly work on **Data Structures & Algorithms** to improve problem-solving and algorithmic thinking.
-
-```text
-Arrays          ████████████████████
-Strings         ██████████████████
-Hashing         █████████████████
-Binary Search   ████████████████
-Two Pointers    ███████████████
-Graphs          ████████████
-Trees           ███████████
-Dynamic Prog.   █████████
-```
-
-> The goal isn't just to solve problems — it's to understand **why the solution works**.
-
----
-
-## `05 // CURRENT MISSION`
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   BUILD INTELLIGENT SYSTEMS                 │
-│                                              │
-│   → Learn deeply                             │
-│   → Build consistently                       │
-│   → Solve real problems                      │
-│   → Ship better software                     │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-### `The long-term goal`
-
-**Become an engineer who can take an AI idea from a research concept to a real, usable product.**
-
----
-
-## `06 // CONNECT`
-
-<div align="center">
-
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/m-arjun-404er/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
 
-<a href="mailto:mr.m.arjun07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+</div>
 
-<br/><br/>
+---
 
-`If you're building something interesting, let's talk.`
+### 👨‍💻 About
 
-<br/>
+I'm a **B.Tech Artificial Intelligence & Machine Learning student** focused on building practical AI applications and improving my problem-solving skills.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=100&section=footer"/>
+Currently exploring **Generative AI, NLP, Computer Vision, ML, DSA & Software Development.**
+
+---
+
+### ⚡ Tech
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,fastapi,pytorch,tensorflow,opencv,git,github,linux"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project                         | What it does                                |
+| ------------------------------- | ------------------------------------------- |
+| 🎙️ **AI Video Dubbing**        | Speech → Translation → AI Voice             |
+| 🚨 **PanicZero**                | AI-powered crisis detection & response      |
+| 📡 **WiSeeYou**                 | Privacy-preserving WiFi gesture recognition |
+| 🕵️ **Fake Follower Detection** | ML-based suspicious account detection       |
+
+---
+
+### 🧠 Currently
+
+`AI/ML` · `Generative AI` · `LLMs` · `NLP` · `Computer Vision` · `DSA`
+
+---
+
+<div align="center">
+
+### `Build • Learn • Break • Improve`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:312e81&height=80&section=footer">
 
 </div>
