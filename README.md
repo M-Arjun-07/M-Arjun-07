@@ -10,13 +10,6 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
 </div>
 
 ---
@@ -77,72 +70,7 @@ I enjoy going from **idea → architecture → implementation → debugging → 
 
 ---
 
-## `03 // SELECTED PROJECTS`
-
-### 🎙️ AI Video Dubbing System
-
-> **Automated multilingual video dubbing using speech recognition, translation and AI-generated speech.**
-
-```text
-YouTube Video
-     │
-     ▼
-   Audio
-     │
-     ▼
-   Whisper
-     │
-     ▼
- Speech → Text
-     │
-     ▼
- IndicTrans2 / Translation
-     │
-     ▼
-  Translated Text
-     │
-     ▼
-   Edge-TTS
-     │
-     ▼
- Dubbed Audio
-```
-
-**Stack:** `Python` `Whisper` `IndicTrans2` `Edge-TTS` `FFmpeg`
-
----
-
-### 🚨 PanicZero
-
-> **AI-powered crisis management and emergency response system.**
-
-Combines intelligent detection, automated response coordination, hospital triage and evacuation routing into a single platform.
-
-**Stack:** `YOLO` `FastAPI` `Firestore` `WebSockets` `A* Pathfinding` `React` `Three.js`
-
----
-
-### 📡 WiSeeYou
-
-> **Privacy-preserving gesture recognition using WiFi Channel State Information.**
-
-Explores how wireless signals can be used to recognize human gestures without relying on cameras.
-
-**Stack:** `ESP32` `WiFi CSI` `Python` `Machine Learning`
-
----
-
-### 🕵️ Fake Follower Detection
-
-> **Data-driven detection of suspicious social-media accounts and follower behavior.**
-
-Focused on identifying patterns that distinguish potentially fake or suspicious followers.
-
-**Stack:** `Python` `Machine Learning` `Data Analysis`
-
----
-
-## `04 // WHAT I'M LEARNING`
+## `03 // WHAT I'M LEARNING`
 
 <div align="center">
 
@@ -179,7 +107,7 @@ Currently focusing on:
 
 ---
 
-## `05 // PROBLEM SOLVING`
+## `04 // PROBLEM SOLVING`
 
 I regularly work on **Data Structures & Algorithms** to improve problem-solving and algorithmic thinking.
 
@@ -198,29 +126,7 @@ Dynamic Prog.   █████████
 
 ---
 
-## `06 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"/>
-
-</div>
-
----
-
-## `07 // CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
-
-</div>
-
----
-
-## `08 // CURRENT MISSION`
+## `05 // CURRENT MISSION`
 
 ```text
 ╭──────────────────────────────────────────────╮
@@ -241,16 +147,16 @@ Dynamic Prog.   █████████
 
 ---
 
-## `09 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/m-arjun-404er/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:mr.m.arjun07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
