@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Building+intelligent+systems+%F0%9F%A4%96;Exploring+Generative+AI+%7C+LLMs+%7C+NLP;Turning+ideas+into+working+software+%E2%9A%A1;Always+learning.+Always+building." />
 
-<br><br>
+<br>
 
 
 <a href="https://www.linkedin.com/in/m-arjun-404er/">
